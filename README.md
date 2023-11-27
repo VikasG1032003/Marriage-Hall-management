@@ -22,4 +22,17 @@ Browse the Wedding Hall Booking System in a browser. i.e. http://localhost/whbs/
 Default Admin Access
 
 Username: admin           
-Password: admin123
+Password: admin123   
+
+![image](https://github.com/VikasG1032003/Marriage-Hall-management/assets/152132927/93008da6-0091-4e0f-8ab8-e946d47749be)    
+![image](https://github.com/VikasG1032003/Marriage-Hall-management/assets/152132927/a5ac1828-ec3d-4d20-bc6e-4fc4f22aa625)    
+![image](https://github.com/VikasG1032003/Marriage-Hall-management/assets/152132927/c38e74e9-02f2-484d-83e6-d1d1c23961e3)   
+![image](https://github.com/VikasG1032003/Marriage-Hall-management/assets/152132927/aeb514bd-d6cc-4197-aef9-199ec4c0ef46)    
+![image](https://github.com/VikasG1032003/Marriage-Hall-management/assets/152132927/0edbc3ab-8bd4-4985-ba57-e14736cbf2b8)     
+![image](https://github.com/VikasG1032003/Marriage-Hall-management/assets/152132927/28e71004-c6e2-42b9-9ee5-4063cf965f3b)     
+
+
+
+
+
+
